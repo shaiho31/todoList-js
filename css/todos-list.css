@@ -1,0 +1,27 @@
+.todos-list {
+    border:1px solid black;
+    width:500px;
+    height:500px;
+}
+
+.div-todo {
+    margin-top:4px;
+}
+
+.li-todo {
+    display:inline;
+    margin-right:50px;
+    margin-top:3px;
+    list-style:none;
+}
+
+.edit-todo {
+    margin-left:3px;
+    background-color:rgb(120, 118, 231);
+    color:white;
+}
+
+.delete-todo {
+    background-color:red;
+    color:white;
+}
